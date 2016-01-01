@@ -24,17 +24,17 @@ D3 Basic Barchart using Reactjs and Nodejs. A few examples of the available char
 
 First, install via `npm`:
 
-`npm install node-react-barchart`
+  `npm install node-react-barchart`
 
-  Then, import into your project.
+   Then, import into your project.
   
- Otherwise, go to project path and do:
+   Otherwise, go to project path and do:
  
- `npm install`
+   `npm install`
  
   This will create node_modules.
   
-  Second, use $`grunt` to build client task:
+Second, use $`grunt` to build client task:
 
   Before use grunt code install grunt on locally.Check [here](http://gruntjs.com/getting-started) for install grunt.If grunt need permission access ,install grunt using as root login .Check [here](http://askubuntu.com/questions/91598/how-do-i-login-as-root) root login .
 
@@ -43,13 +43,13 @@ First, install via `npm`:
    Running "browserify:all" (browserify) task
     >> Bundle app/built.js created.
     
-  Finally, run `node server.js`
+Finally, run `node server.js`
 
   Before run this use,`$ npm install connect serve-static`
     
   
     
-  Check on your browser `127.0.0.1:8989`
+Check on your browser `127.0.0.1:8989`
     
   Barchart will display on server.
      
