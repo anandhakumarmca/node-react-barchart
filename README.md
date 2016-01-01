@@ -22,7 +22,7 @@ D3 Basic Barchart using Reactjs and Nodejs. A few examples of the available char
   install nodejs and verify by using $node -v or $node --version ,if the node is installed it shows the version of installed node.Check [here](https://nodejs.org/en/download/package-manager) for how to install nodejs .Same for npm check [here](https://docs.npmjs.com/cli/install).
     
 
-First, install via `npm`:
+## First, install via `npm`:
 
   `npm install node-react-barchart`
 
@@ -34,7 +34,7 @@ First, install via `npm`:
  
   This will create node_modules.
   
-Second, use $`grunt` to build client task:
+## Second, use $`grunt` to build client task:
 
   Before use grunt code install grunt on locally.Check [here](http://gruntjs.com/getting-started) for install grunt.If grunt need permission access ,install grunt using as root login .Check [here](http://askubuntu.com/questions/91598/how-do-i-login-as-root) root login .
 
@@ -43,7 +43,7 @@ Second, use $`grunt` to build client task:
    Running "browserify:all" (browserify) task
     >> Bundle app/built.js created.
     
-Finally, run `node server.js`
+## Finally, run `node server.js`
 
   Before run this use,`$ npm install connect serve-static`
     
